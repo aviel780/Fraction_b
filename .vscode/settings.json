@@ -3,6 +3,7 @@
         "stdexcept": "cpp",
         "ratio": "cpp",
         "cmath": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "iostream": "cpp"
     }
 }
